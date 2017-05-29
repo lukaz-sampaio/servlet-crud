@@ -1,0 +1,13 @@
+CREATE DATABASE crud-javaee;
+
+CREATE TABLE tb_pessoa(
+id SERIAL PRIMARY KEY, /*MySQL id AUTO_INCREMENT PRIMARY KEY*/
+nome VARCHAR(50));
+
+
+CREATE TABLE tb_usuario(
+id SERIAL PRIMARY KEY, /*MySQL id AUTO_INCREMENT PRIMARY KEY*/
+username VARCHAR(50),
+password VARCHAR(255));
+
+INSERT INTO usuario (id, username, password) VALUES (1, 'admin', '123');
