@@ -1,5 +1,15 @@
 # Simples CRUD em Jaava2EE
----
+
+Bem, esse pequeno projeto faz parte de uma série de coisas básicas do dia a dia de um programador/desenvolvedor Java.
+
+Algumas coisas serão voltadas mais para Web, mas com algumas adaptações dá pra se usar também para Desktop.
+
+Essa foi uma das formas que eu encontrei pra me fazer lembrar caso eu esqueça de algo.
+
+Há inúmeras formas de se fazer isso, talvez essa minha forma não seja uma das melhores, por isso podem mandar sugestões ou *pull-requests* para que possamos melhorar e aprender.
+
+Aqui está um pequeno exemplo de como [gerar relatórios iReports com Java](https://github.com/lukaz-sampaio/java-reports)
+
 ### Depois de abrir o projeto, executar os seguintes passos:
 
 1 - Configurar o servidor web Tomcat:
