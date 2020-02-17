@@ -1,4 +1,4 @@
-# Simples CRUD em Jaava2EE
+# CRUD simples usando Servlets e JSP
 
 Bem, esse pequeno projeto faz parte de uma série de coisas básicas do dia a dia de um programador/desenvolvedor Java.
 
